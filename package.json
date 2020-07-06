@@ -1,0 +1,10 @@
+{
+  "name": "vue-fullstack-calendar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Chuck Smith",
+    "email": "chuck@eclecticsaddlebag.com"
+  },
+  "license": "MIT"
+}
